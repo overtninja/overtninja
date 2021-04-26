@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![overtninja's GitHub stats](https://github-readme-stats.vercel.app/api?username=overtninja&theme=slateorange&show_icons=true&hide_rank=true)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=overtninja)](https://github.com/anuraghazra/github-readme-stats) -->
+
 <!--
 **overtninja/overtninja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
